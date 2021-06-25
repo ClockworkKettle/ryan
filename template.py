@@ -1,0 +1,2 @@
+print("For class structures")
+
